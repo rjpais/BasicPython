@@ -4,6 +4,7 @@ import os
 from Tkinter import Tk
 from tkFileDialog import askdirectory
 
+
 Tk().withdraw() 
 path = askdirectory(title ="Chose folder with pre-processed samples" )
 FILES = os.listdir(path)                                              # gets the names of all files in 
@@ -14,3 +15,5 @@ for filename in FILES:
         K = open(filepath, "r")
         print filepath
         K.close()
+    
+print len(FILES), " txt files found in folder"
