@@ -1,5 +1,6 @@
 # This script opens all files in a given folder that has a given extention, F]for example txt. 
 
+import os 
 from Tkinter import Tk
 from tkFileDialog import askdirectory
 
