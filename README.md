@@ -1,6 +1,6 @@
 # BASIC PYTHON SCRIPTS
 
-This repository is dedicted to scripts in python that were usefull for basic processing and manipulating data:
+Repository dedicted to store basic scripts writen in python that were usefull for processing tasks:
   
   *** Open, closing files.
   
@@ -9,6 +9,14 @@ This repository is dedicted to scripts in python that were usefull for basic pro
   *** writing output files.  
   
   *** parsing strategies.
+  
+  *** loops 
+  
+  *** Dictionaries 
+  
+  *** Conditions setings 
+  
+  *** defining Functions
   
   *** and other generic processing tasks. 
   
